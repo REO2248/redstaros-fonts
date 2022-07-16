@@ -16,7 +16,7 @@ Installable fonts zip file [Download](/kp_fonts.zip?raw=true)
 |광명 굵은|KP KwangMyeong B|kpkwamyB.ttf|[Download](/RedStarOS_fonts/kpkwamyB.ttf?raw=true)|[Download](/ReOutput_fonts/KCC-KP-KwangMyeong-Bold-KP-2011KPS.ttf?raw=true)|
 |붓글|KP PusKul|kppuskum.ttf|[Download](/RedStarOS_fonts/kppuskum.ttf?raw=true)|[Download](/ReOutput_fonts/KCC-KP-PusKul-Medium-KP-2011KPS.ttf?raw=true)|
 |붓글 궁체|KP PK KungChe|kppkkunM.ttf|[Download](/RedStarOS_fonts/kppkkunM.ttf?raw=true)|[Download](/ReOutput_fonts/KCC-KP-PK_KungChe-Medium-KP-2011KPS.ttf?raw=true)|
-|붓글 예서|KP PK Yeso B|kppkyesB.ttf|[Download](/RedStarOS_fonts/kppkyesB.ttf?raw=true)|[Download](/ReOutput_fonts/KCC-KP-PK_Yeso-Bold-KP-2011KPS.ttf?raw=true)|
+|붓글 예서 굵은|KP PK Yeso B|kppkyesB.ttf|[Download](/RedStarOS_fonts/kppkyesB.ttf?raw=true)|[Download](/ReOutput_fonts/KCC-KP-PK_Yeso-Bold-KP-2011KPS.ttf?raw=true)|
 |천리마|KP CheonRiMa|kpcholim.ttf|[Download](/RedStarOS_fonts/kpcholim.ttf?raw=true)|[Download](/ReOutput_fonts/KCC-KP-CheonRiMa-Medium-KP-2011KPS.ttf?raw=true)|
 |천리마 가는|KP CheonRiMa L|kpcholiL.ttf|[Download](/RedStarOS_fonts/kpcholiL.ttf?raw=true)|[Download](/ReOutput_fonts/KCC-KP-CheonRiMa-Light-KP-2011KPS.ttf?raw=true)|
 |천리마 굵은|KP CheonRiMa B|kpcholiB.ttf|[Download](/RedStarOS_fonts/kpcholiB.ttf?raw=true)|[Download](/ReOutput_fonts/KCC-KP-CheonRiMa-Bold-KP-2011KPS.ttf?raw=true)|
