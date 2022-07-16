@@ -8,7 +8,7 @@ Korean fonts from Red Star OS 3.0 ( 붉은별 3.0 )
 ## Downloads
 
 
-Installable fonts zip file [Download](/kp_fonts.zip)
+Installable fonts zip file [Download](/kp_fonts.zip?raw=true)
 
 |Font name (Korean)|Font name|File name|Original File Download|Installable File Download|
 |----|----|----|----|----|
