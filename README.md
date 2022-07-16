@@ -10,7 +10,7 @@ Korean fonts from Red Star OS 3.0 ( 붉은별 3.0 )
 
 Installable fonts zip file [Download](/kp_fonts.zip)
 
-|Font name(Korean)|Font name|File name|Original File Download|Installable File Download|
+|Font name (Korean)|Font name|File name|Original File Download|Installable File Download|
 |----|----|----|----|----|
 |광명|KP KwangMyeong|kpkwamym.ttf|[Download](/RedStarOS_fonts/kpkwamym.ttf?raw=true)|[Download](/ReOutput_fonts/KCC-KP-KwangMyeong-Medium-KP-2011KPS.ttf?raw=true)|
 |광명 굵은|KP KwangMyeong B|kpkwamyB.ttf|[Download](/RedStarOS_fonts/kpkwamyB.ttf?raw=true)|[Download](/ReOutput_fonts/KCC-KP-KwangMyeong-Bold-KP-2011KPS.ttf?raw=true)|
